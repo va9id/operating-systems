@@ -1,6 +1,6 @@
 # Operating Systems Course
 
-The following repository contains C assignments and labs from my operating systems university course in 2021.
+The following repository contains C assignments and labs from my operating systems university course.
 
 ## Description 
 
