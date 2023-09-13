@@ -1,4 +1,4 @@
-// Vahid - SYSC 4001 - Assignment 2
+// SYSC 4001 - Assignment 2
 
 #include <unistd.h>
 #include <stdlib.h> 
@@ -158,7 +158,7 @@ int main()
                 exit(EXIT_FAILURE);
         }
 
-	printf("Vahid's Lexicographic Sort\n"); 
+	printf("Lexicographic Sort\n"); 
 	printf("Shared memory attached at %X\n", (int)shared_memory);
 
 	shared_stuff = (struct shared_use_st *)shared_memory; 

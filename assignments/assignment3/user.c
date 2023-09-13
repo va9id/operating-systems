@@ -1,4 +1,4 @@
-//User - Vahid - Assignment 3 - SYSC 4504
+// SYSC 4001 - Assignment 3
 
 #include <stdlib.h> 
 #include <stdio.h> 
@@ -43,7 +43,7 @@ int main() {
 		exit(EXIT_FAILURE);
 	}
 
-	printf("Vahid's Assignment 3 - SYSC 4504\n"); 
+	printf("Assignment 3 - SYSC 4504\n"); 
 	printCommands(); 
 	printf("----------------------------------------\n");
 

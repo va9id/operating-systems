@@ -1,4 +1,4 @@
-/* Vahid Foroughi 101143281 SYSC 4001 Assignment 1 */
+/* SYSC 4001 Assignment 1 */
 
 #include <unistd.h>
 #include <stdlib.h> 
@@ -87,7 +87,7 @@ matrix, and the time it took for all child processes to execute.
 */
 int main() 
 {
-	printf("\nVahid - Assignment 1 - SYSC 4001\n");
+	printf("\nAssignment 1 - SYSC 4001\n");
 	
 	pid_t pid; 
 	void *shared_memory = (void *)0;
